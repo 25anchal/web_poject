@@ -35,13 +35,6 @@ To set up the project locally, follow these steps:
 5. Move the project files to the htdocs folder of your local server.
 6. Start your local server and open the project in your browser.
 
-## Demo
-
-You can visit the [link](http://sawongambnk.atspace.cc) to visit the live version of the website. 
-
-You can register a new account or log in using the following credentials:
-- Account Number: 200
-- Password: a
 
 Once logged in, you can access your account, transfer funds, view your profile, transaction history, and analytics.
 
@@ -57,4 +50,4 @@ If you find any bugs, issues, or have suggestions for improvements, feel free to
 
 ## Author
 
-This project was created by [sawongam](https://github.com/sawongam)
+This project was created by [anchal](https://github.com/25anchal/web_poject)
