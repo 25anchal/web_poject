@@ -28,10 +28,10 @@ A Web-based banking system, providing account login, creation, balance inquiry, 
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sawongam/Bank-Management-System-in-Web.git`
+1. Clone the repository: `git clone https://github.com/25anchal/web_poject`
 2. Navigate into the project directory: `cd Bank-Management-System-in-Web`
 3. Install a local server environment like XAMPP or WAMP.
-4. Copy the [database](https://github.com/sawongam/Bank-Management-System-in-Web/blob/main/database/bms.sql) to your Local Server environment.
+4. Copy the [database](https://github.com/25anchal/Bank-Management-System-in-Web/blob/main/database/bms.sql) to your Local Server environment.
 5. Move the project files to the htdocs folder of your local server.
 6. Start your local server and open the project in your browser.
 
